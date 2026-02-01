@@ -2,11 +2,9 @@
 
 This site showcases my CS499 projects.
 
-<div style="text-align: justify;">
 This repository showcases two application projects developed during my Computer Science coursework and personal learning. Together, these projects demonstrate my ability to design software systems using appropriate algorithms, data structures, and modern programming practices, while solving real-world problems.
 
 The projects focus on different but complementary aspects of software engineering: data persistence and safety, efficient data organization, and clean architectural design. One project emphasizes mobile application development and database integrity, while the other highlights algorithmic decision-making and data structure selection for managing complex relationships.
-</div>
 ---
 
 ## 📱 Weight Tracking Android Application
