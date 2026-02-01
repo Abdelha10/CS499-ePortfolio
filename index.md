@@ -54,4 +54,4 @@ Together, these applications demonstrate my ability to:
 - [Download Documentation](Narrative.docx)
 
 ## Code Review 
-- [Watch my code review here:](https://youtu.be/pjm5ZuDR_iM)
+- [Watch my code review here](https://youtu.be/pjm5ZuDR_iM)
