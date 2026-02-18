@@ -73,9 +73,13 @@ Together, these applications demonstrate my ability to:
 - **Design applications** that balance usability, integrity, and efficiency
 
 ## Projects
-
-- [Download and View Artifact One Code](Client_Management_App_First_Artifact.zip)
-- [Download and View Artifact Two Code](Client_Management_App_First_Artifact.zip)
+### Original Artifacts
+- [Download and View Artifact One Code]("Original%20Artifacts/Client_Management_Original.zip")
+- [Download and View Artifact Two Code](Original%20Artifacts/Weight_Tracking_Original.zip)
+  
+### Enhanced Artifacts
+-[Download and View Artifact One Code]("Enhanced%20Artifacts/Client_Management_Enhanced.zip")
+- [Download and View Artifact Two Code]("Enhanced%20Artifacts/Weight_Tracking_Enhanced.zip)
 - [Download Documentation](Narrative.docx)
 
 ## Code Review 
