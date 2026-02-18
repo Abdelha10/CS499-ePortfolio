@@ -79,9 +79,9 @@ Together, these applications demonstrate my ability to:
 
   
 ### Enhanced Artifacts
-- [Download and View Artifact One Code]("Enhanced_Artifacts/Client_Management_Enhanced.zip")
-- [Download and View Artifact Two Code]("Enhanced_Artifacts/Weight_Tracking_Enhanced.zip)
-- [Download Documentation](Narrative.docx)
+- [Download and View Artifact One Code]("Enhanced%20Artifacts/Client%20Management%20-%20Enhanced.zip")
+- [Download and View Artifact Two Code]("Enhanced%20Artifacts/Weight%20Tracking%20-%20Enhanced.zip")
+- [Download/View Documentation]("CS499")
 
 ## Code Review 
 - [Watch my code review here](https://youtu.be/pjm5ZuDR_iM)
