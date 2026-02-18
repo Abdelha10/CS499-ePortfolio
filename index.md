@@ -74,8 +74,9 @@ Together, these applications demonstrate my ability to:
 
 ## Projects
 ### Original Artifacts
-- [Download and View Artifact One Code](Original%20Artifacts/Client_Management_Original.zip)
-- [Download and View Artifact Two Code](Original%20Artifacts/Weight_Tracking_Original.zip)
+- [Download and View Artifact One Code](Original%20Artifacts/Client%20Management%20-%20Original.zip)
+- [Download and View Artifact Two Code](Original%20Artifacts/Weight%20Tracking%20-%20Original.zip)
+
   
 ### Enhanced Artifacts
 - [Download and View Artifact One Code]("Enhanced_Artifacts/Client_Management_Enhanced.zip")
