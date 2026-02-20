@@ -13,7 +13,7 @@ The portfolio homepage is built from `index.md` and published with GitHub Pages.
 - User login/guest flows and weight-entry tracking
 - SQLite persistence and CRUD operations
 - Focus on maintainability, safety, and user experience
-- Screenshots:
+- Screenshots: ![LogIn:](assets/LogIn.png)
 
 ### 2. Clientele Management Application (Module 3 Milestone Enhanced)
 - Java service-layer application for contacts, tasks, and appointments
