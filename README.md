@@ -24,6 +24,10 @@ The portfolio homepage is built from `index.md` and published with GitHub Pages.
 - `HashMap`-based data access for fast retrieval and ID uniqueness
 - Input validation and update/delete operations
 - Unit tests to validate behavior and edge cases
+- Screenshot:
+<p align="center">
+  <img src="assets/test.png" width="30%" />
+</p>
 
 ## Skills Demonstrated
 
