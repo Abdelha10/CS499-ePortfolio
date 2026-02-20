@@ -10,12 +10,13 @@ The projects focus on different but complementary aspects of software engineerin
 
 ## Table of Contents
 
+- [Professional Self-Assessment](#professional-self-assessment)
 - [Weight Tracking Android Application](#-weight-tracking-android-application)
 - [Clientele Management Application](#-clientele-management-application)
 - [Purpose of These Projects](#-purpose-of-these-projects)
 - [Projects](#projects)
 - [Code Review](#code-review)
-- [Professional Self-Assessment](#professional-self-assessment)
+
   
 ## Professional Self-Assessment
 
