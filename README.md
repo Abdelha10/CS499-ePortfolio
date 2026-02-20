@@ -26,7 +26,7 @@ The portfolio homepage is built from `index.md` and published with GitHub Pages.
 - Unit tests to validate behavior and edge cases
 - Screenshot:
 <p align="center">
-  <img src="assets/test.png" width="30%" />
+  <img src="assets/Test.png" width="30%" />
 </p>
 
 ## Skills Demonstrated
